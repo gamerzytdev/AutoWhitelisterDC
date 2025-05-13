@@ -45,7 +45,7 @@ Example:
 
 ```yaml
 bot-token: "YOUR_DISCORD_BOT_TOKEN"
-command-prefix: "!"
+command-prefix: "/"
 allowed-roles:
   - "Whitelister"
 whitelist-command: "whitelist add %username%"
